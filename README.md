@@ -1,10 +1,10 @@
 # Deep Learning Specialization on Coursera
 **Master Deep Learning, and Break into AI**
 
-- Organization: [https://www.deeplearning.ai/]
-- Course: [https://www.coursera.org/specializations/deep-learning]
+- Organization: https://www.deeplearning.ai
+- Course: https://www.coursera.org/specializations/deep-learning
 - Instructor: [Andrew Ng](http://www.andrewng.org/)
-- Completion Certificate: [https://www.coursera.org/account/accomplishments/specialization/DKHBNMUB67N6]
+- Completion Certificate: https://www.coursera.org/account/accomplishments/specialization/DKHBNMUB67N6
 
 ## Introduction
 
