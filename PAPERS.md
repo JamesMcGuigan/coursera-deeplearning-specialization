@@ -2,37 +2,59 @@
 
 ## Week 2
 
+### Classic Networks
 - [Lacuna et al, 1998 - Gradient-based learning applied to document recognition](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)
 - [Krizhevsky et al 2012 - ImageNet classification with deep convolutional neural networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
-- [Simony & Zisserman 2015 - Very deep convolutional networks for large scale image recognition - He et al, 2015](https://arxiv.org/pdf/1409.1556.pdf) 
+- [Simony & Zisserman 2015 - Very deep convolutional networks for large scale image recognition - He et al, 2015](https://arxiv.org/pdf/1409.1556.pdf)
+
+### Resnets 
 - [Lin et al, 2013 - Deep residual networks for image recognition](https://arxiv.org/abs/1512.03385)
+
+### Networks in Networks and 1x1 Convolutions
 - [Szegedy et al, 2014 - Network in network - Going deeper with convolutions](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43022.pdf) 
 
+### Networks in Networks and 1x1 Convolutions
+
+[Min Lin, Qiang Chen, Shuicheng Yan - "Network In Network"](https://arxiv.org/abs/1312.4400.pdf)
+
+### Inception Networks
+
+- [Christian Szegedy, and lots of others - "Going Deeper with Convolutions":](https://arxiv.org/abs/1409.4842.pdf)
+
+
 ## Week 3
+
+### Convolutional Implementation of Sliding Windows
 - [Servant et al, 2014 - OverFeat: Integrated recognition, localization and detection using convolutional networks](https://arxiv.org/pdf/1312.6229.pdf)
+
+
+### Bounding Box Predictions
 - [Redmon et al, 2014 - You Only Look Once: Unified real-time object detection](https://pjreddie.com/media/files/papers/yolo.pdf)
+- [Redmon et al, 2016 - YOLO9000: Better, Faster, Stronger](https://arxiv.org/pdf/1612.08242.pdf)
 
-Optional:
-
-- [Girishik et al, 2013 - Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/abs/1311.2524)
+### Region Proposals
+- [Girishik et al, 2013 - Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/pdf/1311.2524.pdf)
 - [Girshik, 2015 - Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf)
 - [Ren et al, 2016 - Faster R-CNN: Toward real-time object detection with region proposal networks](https://arxiv.org/pdf/1506.01497.pdf)
 
-Exercise:
-
-- [Redmon et al, 2016 - YOLO9000: Better, Faster, Stronger](https://arxiv.org/pdf/1612.08242.pdf)
 
 ## Week 4
 
+### Siamese Network
 - [Taigman et al, 2014 - DeepFace: Closing the Gap to Human-Level Performance in Face Verification](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf)
+
+### Triplet Loss
 - [Schroff et al. - FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/pdf/1503.03832.pdf)
+
+### What are deep ConvNets learning?
 - [Zeiler and Fergus, 2013 - Visualizing and understanding convolutional networks](https://arxiv.org/pdf/1311.2901.pdf)
+
+### Neural Style
 - [Gates et al, 2015 - A neural algorithm of artistic style](https://arxiv.org/abs/1508.06576)
-
-Exercise:
-
 - [Harish Narayanan - Convolutional neural networks for artistic style transfer](https://harishnarayanan.org/writing/artistic-style-transfer/)
 - [Log0, TensorFlow Implementation of "A Neural Algorithm of Artistic Style"](http://www.chioka.in/tensorflow-implementation-neural-algorithm-of-artistic-style)
+
+### Image Recognition 
 - [Karen Simonyan and Andrew Zisserman (2015). Very deep convolutional networks for large-scale image recognition](https://arxiv.org/pdf/1409.1556.pdf)
 
 
