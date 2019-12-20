@@ -1,0 +1,1 @@
+/home/jovyan/work-ro/readonly/glove.6B.50d.txt
