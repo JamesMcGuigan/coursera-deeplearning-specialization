@@ -1,3 +1,7 @@
+# DeepLearning.ai - Deep Learning Specialization
+This is a list of research papers referenced by the
+[Deep Learning Specialization](https://www.deeplearning.ai/deep-learning-specialization/) course.
+
 # Convolutional Neural Networks
 
 ## Week 2
