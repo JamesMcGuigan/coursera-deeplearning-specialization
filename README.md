@@ -91,3 +91,5 @@ This repo contains all my work for this specialization. All the code base and im
   + [Week 2 - Emojify](./05_Sequence_Models/Week%202/Emojify/Emojify_v2a.ipynb)
   + [Week 3 - Neural machine translation with attention](./05_Sequence_Models/Week%203/Machine%20Translation/Neural_machine_translation_with_attention_v4a.ipynb)
   + [Week 3 - Trigger word detection](./05_Sequence_Models/Week%203/Trigger%20word%20detection/Trigger_word_detection_v1a.ipynb)
+  
+  Thanks.
